@@ -1,2 +1,2 @@
 # odin-recipes
-This project will create a recipes website using HTML. This project main goal is to practise HTML.
+This project is gives recipes to cook delicious meals. This project's main goal is to practise HTML. If you would like try some of the recipes, I guarantee you won't be disappointed.
