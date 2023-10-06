@@ -1,0 +1,17 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: beige;
+    text-align: center;
+}
+
+a {
+    color: gray;
+}
+
+ul, ol {
+    display:inline-block;
+}
+
+li {
+    text-align: left;
+}
