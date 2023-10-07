@@ -4,14 +4,31 @@
     text-align: center;
 }
 
-a {
-    color: gray;
+h1, h2 {
+    color: darkcyan;
 }
 
-ul, ol {
-    display:inline-block;
+img {
+    margin: 20px;
+}
+
+a {
+    color: gray;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 3px;
+    border-right: 5px burlywood solid;
+}
+
+ul,ol {
+    display:inline-block
 }
 
 li {
     text-align: left;
+}
+
+.main-list li {
+    display: inline-block;
+    margin: 20px;
 }
